@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "appwrite": "^11.0.0",
+    "react-router-dom": "^6.11.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
